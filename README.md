@@ -13,5 +13,3 @@
 <li>Backend: Node.js + Express.js
 <li>Frontend: React.js
 </ul>
-
-### Plik z dokumentacją - Dokumentacja.pdf
