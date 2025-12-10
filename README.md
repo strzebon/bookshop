@@ -1,13 +1,13 @@
 # Księgarnia internetowa
 
-## Osoby realizujące
+### Osoby realizujące
 
 <ul>
 <li>Witold Strzeboński
 <li>Mateusz Waga
 </ul>
 
-## Technologie
+### Technologie
 <ul>
 <li>Baza danych: Mongodb
 <li>Backend: Node.js + Express.js
