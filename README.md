@@ -1,5 +1,3 @@
-# Bookshop
-
 ## Osoby realizujące
 
 <ul>
