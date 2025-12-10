@@ -1,4 +1,4 @@
-# Electronic-system-of-library
+# Bookshop
 
 ## Osoby realizujące
 
